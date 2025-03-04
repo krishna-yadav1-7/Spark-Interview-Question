@@ -1,0 +1,6 @@
+1) What is catalyst optimizer/ Spark SQL Engine.
+2) why do we get analysis exception error?
+3) what is catalog?
+4) What is physical planning / Spark Plan.
+5) Is spark SQL Engine is a compiler?
+6) How many phases are involved in Spark SQL Engine to convert a code into Java Byte Code.
