@@ -1,0 +1,7 @@
+##Interview Questions
+
+1)Have you worked with corrupted records?
+2)When do you say that its a corrupt record:?
+3)What happens when we encounter with corrupted records in differnet read mode?
+4)How can we print bad reocrd?
+5)Where do you store corrupt records and how can we access later?
