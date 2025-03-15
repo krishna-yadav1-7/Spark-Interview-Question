@@ -1,0 +1,7 @@
+##SChema in Spark
+###Interview Question
+
+#1) How to create Schema in spark
+#2) What are other ways to creating it.
+#3) What is struct field and struct type in schema
+#4) What if i have header in my data.
